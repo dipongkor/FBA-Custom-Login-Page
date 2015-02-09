@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d68577ae-86fa-404e-8fbd-cd40ebf787a4" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Sp.Login.Custom.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Sp.Login.Custom\DesignFiles\Css\customLogin.css" />
+    <TemplateFile Location="Layouts\Sp.Login.Custom\DesignFiles\Images\password.png" />
+    <TemplateFile Location="Layouts\Sp.Login.Custom\DesignFiles\Images\spIcon.png" />
+    <TemplateFile Location="Layouts\Sp.Login.Custom\DesignFiles\Images\userName.png" />
+    <TemplateFile Location="Layouts\Sp.Login.Custom\Login.aspx" />
+  </TemplateFiles>
+</Solution>

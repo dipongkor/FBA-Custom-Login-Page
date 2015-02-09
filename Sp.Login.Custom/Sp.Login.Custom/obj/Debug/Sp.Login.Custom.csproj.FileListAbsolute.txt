@@ -1,0 +1,4 @@
+C:\Users\spadmin\documents\visual studio 2013\Projects\Sp.Login.Custom\Sp.Login.Custom\bin\Debug\Sp.Login.Custom.dll
+C:\Users\spadmin\documents\visual studio 2013\Projects\Sp.Login.Custom\Sp.Login.Custom\bin\Debug\Sp.Login.Custom.pdb
+C:\Users\spadmin\documents\visual studio 2013\Projects\Sp.Login.Custom\Sp.Login.Custom\obj\Debug\Sp.Login.Custom.dll
+C:\Users\spadmin\documents\visual studio 2013\Projects\Sp.Login.Custom\Sp.Login.Custom\obj\Debug\Sp.Login.Custom.pdb

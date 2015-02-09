@@ -1,0 +1,1 @@
+bin\Release\Sp.Login.Custom.wsp

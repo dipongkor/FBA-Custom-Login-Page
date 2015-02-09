@@ -1,0 +1,36 @@
+﻿#customLoginMain {
+    width: 505px;
+    border: 1px solid rgb(43, 106, 189);
+    padding: 5px;
+    margin:0 auto;
+}
+
+#customLoginHeader {
+     text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-color: #0072c6;  
+    background-image: url('/_layouts/15/Sp.Login.Custom/DesignFiles/Images/spIcon.png');  
+    background-repeat: no-repeat;  
+    height: 37px;  
+    background-size: 107px;
+}
+
+.userNameIcom {
+    background-image: url('/_layouts/15/Sp.Login.Custom/DesignFiles/Images/userName.png');
+    background-repeat: no-repeat;
+}
+
+.passwordIcom {
+    background-image: url('/_layouts/15/Sp.Login.Custom/DesignFiles/Images/password.png');
+    background-repeat: no-repeat;
+}
+
+input[type=password], input[type=text] {
+    padding: 0;
+    padding-left: 25px;
+}
+#ctl00_PlaceHolderMain_signInControl{
+    text-align:center;
+}
